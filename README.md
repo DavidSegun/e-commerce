@@ -1,4 +1,4 @@
-# Lexi - Multi-Tenant E-Commerce Platform
+#  Multi-Tenant E-Commerce Platform
 
 A comprehensive multi-tenant e-commerce platform where creators can set up their own storefronts, sell digital products, and get paid through Stripe Connect. Built with Next.js 15, Payload CMS, and modern web technologies.
 
